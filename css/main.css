@@ -1,8 +1,15 @@
 *{
+	text-align:center;
 	margin: 0px;
 	padding: 0px;
 }
 #myVideo{
 	height: 400px;
 	width: 600px;
+}
+
+#myTitle
+{
+text-align:center;
+color:red;
 }
